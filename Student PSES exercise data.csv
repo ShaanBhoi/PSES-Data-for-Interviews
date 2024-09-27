@@ -1,0 +1,389 @@
+SURVEY YEAR,DEPARTMENT,QUESTION NUMBER,QUESTION,POSITIVE SCORE,NEUTRAL SCORE,NEGATIVE SCORE,AGREE,SCORE100,SURVEY RESPONSES,THEME,SUB-THEME
+2019,Privy Council Office,Q03,"Question 3. My physical environment (e.g., office, workspace) is suitable for my job requirements.",79,6,15,79,76,855,Workplace,Physical environment and equipment
+2019,Privy Council Office,Q04,Question 4. I get the training I need to do my job.,74,12,14,74,73,848,Workforce,Job fit and development
+2019,Privy Council Office,Q05,"Question 5. I have the information, training and equipment I need to ensure my health and safety at work.",87,7,6,87,83,852,Workplace,Physical environment and equipment
+2019,Privy Council Office,Q06,Question 6. I have support at work to balance my work and personal life.,78,10,11,78,78,856,Workforce,Work-life balance and workload
+2019,Privy Council Office,Q07,Question 7. I get a sense of satisfaction from my work.,85,9,6,85,82,858,Employee engagement,Employee engagement
+2019,Privy Council Office,Q08,Question 8. I receive meaningful recognition for work well done.,76,12,12,76,75,858,Workforce,Performance management
+2019,Privy Council Office,Q09,Question 9. I have clear work objectives.,76,12,11,76,75,852,Workforce,Performance management
+2019,Privy Council Office,Q10,Question 10. I know how my work contributes to the achievement of my department's or agency's goals.,88,7,5,88,84,855,Workplace,Organizational goals
+2019,Privy Council Office,Q11,"Question 11. Overall, I feel valued at work.",79,11,10,79,77,855,Employee engagement,Employee engagement
+2019,Privy Council Office,Q12,Question 12. I am proud of the work that I do.,91,6,3,91,86,847,Employee engagement,Employee engagement
+2019,Privy Council Office,Q13,Question 13. I have opportunities to provide input into decisions that affect my work.,79,11,10,79,77,855,Workforce,Empowerment
+2019,Privy Council Office,Q14,Question 14. I am encouraged to be innovative or to take initiative in my work.,81,11,8,81,80,855,Workforce,Empowerment
+2019,Privy Council Office,Q15,Question 15. I have support at work to provide a high level of service.,85,10,6,85,81,851,Workforce,Empowerment
+2019,Privy Council Office,Q16,"Question 16. Overall, I like my job.",89,6,5,89,84,856,Employee engagement,Employee engagement
+2019,Privy Council Office,Q17,Question 17. I can complete my assigned workload during my regular working hours.,67,18,15,67,70,856,Workforce,Work-life balance and workload
+2019,Privy Council Office,Q19,Question 19. I am satisfied with how interpersonal issues are resolved in my work unit.,69,16,15,69,72,855,Workplace,Ethical workplace
+2019,Privy Council Office,Q20,"Question 20. In my work unit, every individual is accepted as an equal member of the team.",79,8,12,79,79,855,Workplace,Diversity and inclusion
+2019,Privy Council Office,Q21,"Question 21. In my work unit, individuals behave in a respectful manner.",86,7,8,86,83,855,Workplace,Diversity and inclusion
+2019,Privy Council Office,Q22,Question 22. The people I work with value my ideas and opinions.,85,10,5,85,83,853,Workplace,Diversity and inclusion
+2019,Privy Council Office,Q25,Question 25. My immediate supervisor encourages me to work collaboratively with others outside of my work unit.,85,10,5,85,84,856,Leadership,Immediate supervisor
+2019,Privy Council Office,Q26,Question 26. I receive useful feedback from my immediate supervisor on my job performance.,78,12,11,78,78,856,Workforce,Performance management
+2019,Privy Council Office,Q28,Question 28. My immediate supervisor keeps me informed about the issues affecting my work.,81,9,10,81,80,853,Leadership,Immediate supervisor
+2019,Privy Council Office,Q30,Question 30. I am satisfied with the quality of supervision I receive.,84,8,8,84,83,856,Leadership,Immediate supervisor
+2019,Privy Council Office,Q31,"Question 31. When I communicate with my immediate supervisor, I feel free to use the official language of my choice.",95,3,3,95,93,853,Workplace,Use of official languages
+2019,Privy Council Office,Q32,Question 32. Senior managers in my department or agency lead by example in ethical behaviour.,82,10,8,82,80,848,Leadership,Senior management
+2019,Privy Council Office,Q33,Question 33. I have confidence in the senior management of my department or agency.,82,11,7,82,80,847,Leadership,Senior management
+2019,Privy Council Office,Q34,Question 34. Senior management in my department or agency makes effective and timely decisions.,74,15,12,74,74,846,Leadership,Senior management
+2019,Privy Council Office,Q35,Question 35. Essential information flows effectively from senior management to staff.,68,14,18,68,68,849,Leadership,Senior management
+2019,Privy Council Office,Q36,Question 36. Senior managers in my department or agency use both official languages in their interactions with employees.,74,16,10,74,77,856,Workplace,Use of official languages
+2019,Privy Council Office,Q37,"Question 37. My department or agency does a good job of communicating its vision, mission and goals.",78,12,10,78,75,858,Workplace,Organizational goals
+2019,Privy Council Office,Q38,Question 38. I feel that change is managed well in my department or agency.,70,17,14,70,70,853,Workplace,Organizational performance
+2019,Privy Council Office,Q39,"Question 39. If I am faced with an ethical dilemma or a conflict between values in the workplace, I know where I can go for help in resolving the situation.",71,15,14,71,72,856,Workplace,Ethical workplace
+2019,Privy Council Office,Q40,Question 40. My department or agency does a good job of promoting values and ethics in the workplace.,76,15,9,76,75,857,Workplace,Ethical workplace
+2019,Privy Council Office,Q41,"Question 41. I feel I can initiate a formal recourse process (e.g., grievance, complaint, appeal) without fear of reprisal.",52,25,24,52,61,853,Workplace,Ethical workplace
+2019,Privy Council Office,Q42,Question 42. My department or agency does a good job of supporting employee career development.,66,16,18,66,68,854,Workforce,Job fit and development
+2019,Privy Council Office,Q44,"Question 44. I believe I have opportunities for promotion within my department or agency, given my education, skills and experience.",50,17,32,50,57,855,Workforce,Job fit and development
+2019,Privy Council Office,Q45,Question 45. I feel I would be supported by my department or agency if I proposed a new idea.,79,14,7,79,76,854,Workforce,Empowerment
+2019,Privy Council Office,Q46,"Question 46. I think that my department or agency respects individual differences (e.g., culture, work styles, ideas, abilities).",84,11,5,84,81,850,Workplace,Diversity and inclusion
+2019,Privy Council Office,Q47,Question 47. My department or agency implements activities and practices that support a diverse workforce.,83,11,6,83,81,853,Workplace,Diversity and inclusion
+2019,Privy Council Office,Q52,"Question 52. Overall, my department or agency treats me with respect.",90,6,4,90,86,857,Workplace,Diversity and inclusion
+2019,Privy Council Office,Q53,Question 53. I would recommend my department or agency as a great place to work.,82,11,7,82,81,851,Employee engagement,Employee engagement
+2019,Privy Council Office,Q54,Question 54. I am satisfied with my department or agency.,85,9,7,85,82,851,Employee engagement,Employee engagement
+2019,Privy Council Office,Q55,"Question 55. I would prefer to remain with my department or agency, even if a comparable job was available elsewhere in the federal public service.",73,15,12,73,77,856,Employee engagement,Employee engagement
+2019,Privy Council Office,Q62,Question 62. I am satisfied with how matters related to harassment are resolved in my department or agency.,59,24,18,59,67,855,Workplace,Harassment
+2019,Privy Council Office,Q63,Question 63. My department or agency works hard to create a workplace that prevents harassment.,74,17,9,74,77,853,Workplace,Harassment
+2019,Privy Council Office,Q69,Question 69. I am satisfied with how matters related to discrimination are resolved in my department or agency.,64,27,9,64,73,852,Workplace,Discrimination
+2019,Privy Council Office,Q70,Question 70. My department or agency works hard to create a workplace that prevents discrimination.,77,16,7,77,79,853,Workplace,Discrimination
+2019,Privy Council Office,Q73,"Question 73. Overall, my level of work-related stress is...",51,35,13,13,63,856,Workplace well-being,Work-related stress
+2019,Privy Council Office,Q74,"Question 74. After my workday, I feel emotionally drained.",34,41,25,25,53,851,Workplace well-being,Work-related stress
+2019,Privy Council Office,Q75,Question 75. My department or agency does a good job of raising awareness of mental health in the workplace.,80,13,7,80,78,857,Workplace well-being,A psychologically healthy workplace
+2019,Privy Council Office,Q80,Question 80. I would describe my workplace as being psychologically healthy.,70,17,13,70,71,858,Workplace well-being,A psychologically healthy workplace
+2019,Privy Council Office,Q82,Question 82. I am equipped to support employees in my work unit who are experiencing mental health issues. (for supervisors),80,10,10,80,76,203,Workplace well-being,A psychologically healthy workplace
+2019,Privy Council Office,Q86,Question 86. I am satisfied with the workplace accommodation measures that were implemented.,86,7,7,86,83,98,Workplace,Duty to accommodate
+2019,Privy Council Office,Q92,"Question 92. To what extent have issues with the Phoenix pay system affected your decision to seek or accept another position (e.g., deployment, promotion, secondment, assignment, acting assignment) within your department or agency or the federal public service?",68,15,17,17,72,839,Compensation,Pay or other compensation issues
+2020,Privy Council Office,Q01,"Question 1. I have the tools, technology and equipment I need to do my job.",82,4,14,82,76,761,Workplace,Physical environment and equipment
+2020,Privy Council Office,Q02,"Question 2. The material and tools provided for my work, including software and other automated tools, are available in the official language of my choice.",92,4,3,92,91,758,Workplace,Use of official languages
+2020,Privy Council Office,Q03,"Question 3. My physical environment (e.g., office, workspace) is suitable for my job requirements.",80,6,14,80,76,759,Workplace,Physical environment and equipment
+2020,Privy Council Office,Q04,Question 4. I get the training I need to do my job.,73,14,14,73,74,755,Workforce,Job fit and development
+2020,Privy Council Office,Q05,"Question 5. I have the information, training and equipment I need to ensure my health and safety at work.",79,9,12,79,78,750,Workplace,Physical environment and equipment
+2020,Privy Council Office,Q06,Question 6. I have support at work to balance my work and personal life.,73,10,17,73,73,759,Workforce,Work-life balance and workload
+2020,Privy Council Office,Q07,Question 7. I get a sense of satisfaction from my work.,82,9,10,82,78,760,Employee engagement,Employee engagement
+2020,Privy Council Office,Q08,Question 8. I receive meaningful recognition for work well done.,75,12,13,75,75,759,Workforce,Performance management
+2020,Privy Council Office,Q09,Question 9. I have clear work objectives.,76,11,13,76,75,753,Workforce,Performance management
+2020,Privy Council Office,Q10,Question 10. I know how my work contributes to the achievement of my department's or agency's goals.,88,6,6,88,84,759,Workplace,Organizational goals
+2020,Privy Council Office,Q11,"Question 11. Overall, I feel valued at work.",76,11,13,76,76,759,Employee engagement,Employee engagement
+2020,Privy Council Office,Q12,Question 12. I am proud of the work that I do.,88,8,4,88,85,757,Employee engagement,Employee engagement
+2020,Privy Council Office,Q13,Question 13. I have opportunities to provide input into decisions that affect my work.,78,10,12,78,76,755,Workforce,Empowerment
+2020,Privy Council Office,Q14,Question 14. I am encouraged to be innovative or to take initiative in my work.,78,12,10,78,78,758,Workforce,Empowerment
+2020,Privy Council Office,Q15,Question 15. I have support at work to provide a high level of service.,82,10,9,82,80,754,Workforce,Empowerment
+2020,Privy Council Office,Q16,"Question 16. Overall, I like my job.",86,8,6,86,82,757,Employee engagement,Employee engagement
+2020,Privy Council Office,Q17,Question 17. I can complete my assigned workload during my regular working hours.,58,20,23,58,63,759,Workforce,Work-life balance and workload
+2020,Privy Council Office,Q19,Question 19. I am satisfied with how interpersonal issues are resolved in my work unit.,65,19,16,65,70,758,Workplace,Ethical workplace
+2020,Privy Council Office,Q20,"Question 20. In my work unit, every individual is accepted as an equal member of the team.",80,7,13,80,79,757,Workplace,Diversity and inclusion
+2020,Privy Council Office,Q21,"Question 21. In my work unit, individuals behave in a respectful manner.",88,6,6,88,85,753,Workplace,Diversity and inclusion
+2020,Privy Council Office,Q22,Question 22. The people I work with value my ideas and opinions.,86,8,6,86,83,751,Workplace,Diversity and inclusion
+2020,Privy Council Office,Q25,Question 25. My immediate supervisor encourages me to work collaboratively with others outside of my work unit.,85,10,5,85,85,759,Leadership,Immediate supervisor
+2020,Privy Council Office,Q26,Question 26. I receive useful feedback from my immediate supervisor on my job performance.,80,10,11,80,79,758,Workforce,Performance management
+2020,Privy Council Office,Q27,Question 27. I feel that my immediate supervisor supports my career goals.,79,13,8,79,81,758,Workforce,Job fit and development
+2020,Privy Council Office,Q28,Question 28. My immediate supervisor keeps me informed about the issues affecting my work.,81,9,10,81,81,760,Leadership,Immediate supervisor
+2020,Privy Council Office,Q30,Question 30. I am satisfied with the quality of supervision I receive.,86,7,7,86,85,759,Leadership,Immediate supervisor
+2020,Privy Council Office,Q32,Question 32. Senior managers in my department or agency lead by example in ethical behaviour.,81,11,9,81,81,759,Leadership,Senior management
+2020,Privy Council Office,Q33,Question 33. I have confidence in the senior management of my department or agency.,78,11,11,78,79,757,Leadership,Senior management
+2020,Privy Council Office,Q34,Question 34. Senior management in my department or agency makes effective and timely decisions.,72,14,14,72,73,757,Leadership,Senior management
+2020,Privy Council Office,Q35,Question 35. Essential information flows effectively from senior management to staff.,70,13,16,70,71,757,Leadership,Senior management
+2020,Privy Council Office,Q36,Question 36. Senior managers in my department or agency use both official languages in their interactions with employees.,72,18,10,72,75,761,Workplace,Use of official languages
+2020,Privy Council Office,Q37,"Question 37. My department or agency does a good job of communicating its vision, mission and goals.",75,15,10,75,75,755,Workplace,Organizational goals
+2020,Privy Council Office,Q38,Question 38. I feel that change is managed well in my department or agency.,68,16,16,68,70,757,Workplace,Organizational performance
+2020,Privy Council Office,Q39,"Question 39. If I am faced with an ethical dilemma or a conflict between values in the workplace, I know where I can go for help in resolving the situation.",71,15,15,71,73,754,Workplace,Ethical workplace
+2020,Privy Council Office,Q40,Question 40. My department or agency does a good job of promoting values and ethics in the workplace.,75,16,9,75,77,757,Workplace,Ethical workplace
+2020,Privy Council Office,Q41,"Question 41. I feel I can initiate a formal recourse process (e.g., grievance, complaint, appeal) without fear of reprisal.",53,26,21,53,64,757,Workplace,Ethical workplace
+2020,Privy Council Office,Q42,Question 42. My department or agency does a good job of supporting employee career development.,68,16,16,68,70,759,Workforce,Job fit and development
+2020,Privy Council Office,Q44,"Question 44. I believe I have opportunities for promotion within my department or agency, given my education, skills and experience.",54,16,30,54,60,758,Workforce,Job fit and development
+2020,Privy Council Office,Q45,Question 45. I feel I would be supported by my department or agency if I proposed a new idea.,77,12,11,77,74,760,Workforce,Empowerment
+2020,Privy Council Office,Q46,"Question 46. I think that my department or agency respects individual differences (e.g., culture, work styles, ideas, abilities).",83,10,8,83,80,755,Workplace,Diversity and inclusion
+2020,Privy Council Office,Q47,Question 47. My department or agency implements activities and practices that support a diverse workforce.,81,11,8,81,80,756,Workplace,Diversity and inclusion
+2020,Privy Council Office,Q48,Question 48. My department or agency implements initiatives that promote anti-racism in the workplace.,76,16,9,76,77,759,Workplace,Anti-racism
+2020,Privy Council Office,Q49,"Question 49. I would feel comfortable sharing concerns about racism in the workplace with a person of authority (e.g., immediate supervisor, senior manager, ombudsperson, human resources advisor).",82,11,7,82,81,755,Workplace,Anti-racism
+2020,Privy Council Office,Q52,"Question 52. Overall, my department or agency treats me with respect.",89,6,5,89,86,758,Workplace,Diversity and inclusion
+2020,Privy Council Office,Q53,Question 53. I would recommend my department or agency as a great place to work.,80,12,8,80,81,752,Employee engagement,Employee engagement
+2020,Privy Council Office,Q54,Question 54. I am satisfied with my department or agency.,81,11,8,81,81,750,Employee engagement,Employee engagement
+2020,Privy Council Office,Q55,"Question 55. I would prefer to remain with my department or agency, even if a comparable job was available elsewhere in the federal public service.",73,14,14,73,76,758,Employee engagement,Employee engagement
+2020,Privy Council Office,Q62,Question 62. I am satisfied with how matters related to harassment are resolved in my department or agency.,59,25,16,59,68,760,Workplace,Harassment
+2020,Privy Council Office,Q63,Question 63. My department or agency works hard to create a workplace that prevents harassment.,74,17,9,74,77,760,Workplace,Harassment
+2020,Privy Council Office,Q69,Question 69. I am satisfied with how matters related to discrimination are resolved in my department or agency.,64,26,10,64,73,759,Workplace,Discrimination
+2020,Privy Council Office,Q70,Question 70. My department or agency works hard to create a workplace that prevents discrimination.,76,18,6,76,79,759,Workplace,Discrimination
+2020,Privy Council Office,Q71,Question 71. I am satisfied with how concerns or complaints about racism in the workplace are resolved in my department or agency. (only asked if respondent selected 'Race' in question 66.),34,0,66,34,30,13,Workplace,Anti-racism
+2020,Privy Council Office,Q73,"Question 73. Overall, my level of work-related stress is...",44,36,20,20,58,757,Workplace well-being,Work-related stress
+2020,Privy Council Office,Q74,"Question 74. After my workday, I feel emotionally drained.",29,40,32,32,48,759,Workplace well-being,Work-related stress
+2020,Privy Council Office,Q75,Question 75. My department or agency does a good job of raising awareness of mental health in the workplace.,79,13,9,79,77,757,Workplace well-being,A psychologically healthy workplace
+2020,Privy Council Office,Q77,Question 77. My immediate supervisor supports my mental health and well-being.,81,12,7,81,82,753,Workplace well-being,A psychologically healthy workplace
+2020,Privy Council Office,Q78,Question 78. I would feel comfortable sharing concerns with my immediate supervisor about my mental health.,71,11,17,71,73,760,Workplace well-being,A psychologically healthy workplace
+2020,Privy Council Office,Q79,Question 79. I would feel comfortable sharing concerns with my immediate supervisor about my physical health and safety.,82,7,10,82,81,756,Workplace well-being,A safe and healthy workplace
+2020,Privy Council Office,Q80,Question 80. I would describe my workplace as being psychologically healthy.,72,14,14,72,74,760,Workplace well-being,A psychologically healthy workplace
+2020,Privy Council Office,Q82,Question 82. I am equipped to support employees in my work unit who are experiencing mental health issues. (for supervisors),73,12,15,73,71,201,Workplace well-being,A psychologically healthy workplace
+2020,Privy Council Office,Q86,Question 86. I am satisfied with the workplace accommodation measures that were implemented.,77,9,14,77,76,53,Workplace,Duty to accommodate
+2020,Privy Council Office,Q87,Question 87. I would feel comfortable requesting workplace accommodation measures from my immediate supervisor.,86,9,5,86,84,758,Workplace,Duty to accommodate
+2020,Privy Council Office,Q90,"Question 90. I am satisfied with the support (e.g., regular information, follow-up, making enquiries on my behalf, offering emergency or priority pay) I received from my department or agency to help resolve my pay or other compensation issues.",45,15,40,45,51,197,Compensation,Support to resolve pay or other compensation issues
+2020,Privy Council Office,Q91,Question 91. I am satisfied with the support I received from the Pay Centre to help resolve my pay or other compensation issues.,27,19,54,27,38,198,Compensation,Support to resolve pay or other compensation issues
+2020,Privy Council Office,Q92,"Question 92. To what extent have issues with the Phoenix pay system affected your decision to seek or accept another position (e.g., deployment, promotion, secondment, assignment, acting assignment) within your department or agency or the federal public service?",72,14,14,14,76,760,Compensation,Pay or other compensation issues
+2022,Privy Council Office,Q01,"Question 1. I have the tools, technology and equipment I need to do my job.",88,2,10,88,80,710,Workplace,Physical environment and equipment
+2022,Privy Council Office,Q02,"Question 2. The material and tools provided for my work, including software and other automated tools, are available in the official language of my choice.",94,3,3,94,92,710,Workplace,Use of official languages
+2022,Privy Council Office,Q03,"Question 3. My physical environment (e.g., office, workspace) is suitable for my job requirements.",78,7,16,78,75,710,Workplace,Physical environment and equipment
+2022,Privy Council Office,Q04,Question 4. I get the training I need to do my job.,71,12,17,71,71,710,Workforce,Job fit and development
+2022,Privy Council Office,Q05,"Question 5. I have the information, training and equipment I need to ensure my health and safety at work.",82,8,9,82,80,710,Workplace,Physical environment and equipment
+2022,Privy Council Office,Q06,Question 6. I have support at work to balance my work and personal life.,72,10,19,72,71,710,Workforce,Work-life balance and workload
+2022,Privy Council Office,Q07,Question 7. I get a sense of satisfaction from my work.,82,9,9,82,78,710,Employee engagement,Employee engagement
+2022,Privy Council Office,Q08,Question 8. I receive meaningful recognition for work well done.,74,11,15,74,73,710,Workforce,Performance management
+2022,Privy Council Office,Q09,Question 9. I have clear work objectives.,81,8,12,81,76,705,Workforce,Performance management
+2022,Privy Council Office,Q10,Question 10. I know how my work contributes to the achievement of my department's or agency's goals.,88,7,5,88,84,700,Workplace,Organizational goals
+2022,Privy Council Office,Q11,"Question 11. Overall, I feel valued at work.",77,11,13,77,75,710,Employee engagement,Employee engagement
+2022,Privy Council Office,Q12,Question 12. I am proud of the work that I do.,86,10,4,86,85,710,Employee engagement,Employee engagement
+2022,Privy Council Office,Q13,Question 13. I have opportunities to provide input into decisions that affect my work.,75,11,14,75,73,710,Workforce,Empowerment
+2022,Privy Council Office,Q14,Question 14. I am encouraged to be innovative or to take initiative in my work.,76,12,12,76,76,710,Workforce,Empowerment
+2022,Privy Council Office,Q15,Question 15. I have support at work to provide a high level of service.,82,10,9,82,79,710,Workforce,Empowerment
+2022,Privy Council Office,Q16,"Question 16. Overall, I like my job.",85,10,5,85,82,710,Employee engagement,Employee engagement
+2022,Privy Council Office,Q17,Question 17. I can complete my assigned workload during my regular working hours.,60,19,21,60,66,710,Workforce,Work-life balance and workload
+2022,Privy Council Office,Q19,Question 19. I am satisfied with how interpersonal issues are resolved in my work unit.,71,17,13,71,72,710,Workplace,Ethical workplace
+2022,Privy Council Office,Q20,"Question 20. In my work unit, every individual is accepted as an equal member of the team.",83,6,10,83,81,710,Workplace,Diversity and inclusion
+2022,Privy Council Office,Q21,"Question 21. In my work unit, individuals behave in a respectful manner.",90,4,6,90,86,710,Workplace,Diversity and inclusion
+2022,Privy Council Office,Q22,Question 22. The people I work with value my ideas and opinions.,87,6,7,87,83,710,Workplace,Diversity and inclusion
+2022,Privy Council Office,Q23,"Question 23. In my work unit, I would feel safe to speak about racism in the workplace without fear of reprisal or negative impact on my career.",81,10,9,81,79,710,Workplace,Anti-racism
+2022,Privy Council Office,Q24,"Question 24. In my work unit, I would feel safe to speak about racism in the workplace without negative impact on my mental health.",81,9,9,81,80,710,Workplace,Anti-racism
+2022,Privy Council Office,Q25,Question 25. My immediate supervisor encourages me to work collaboratively with others outside of my work unit.,85,10,5,85,85,710,Leadership,Immediate supervisor
+2022,Privy Council Office,Q26,Question 26. I receive useful feedback from my immediate supervisor on my job performance.,79,8,13,79,77,710,Workforce,Performance management
+2022,Privy Council Office,Q27,Question 27. I feel that my immediate supervisor supports my career goals.,82,9,9,82,81,710,Workforce,Job fit and development
+2022,Privy Council Office,Q28,Question 28. My immediate supervisor keeps me informed about the issues affecting my work.,83,7,10,83,80,710,Leadership,Immediate supervisor
+2022,Privy Council Office,Q29,"Question 29. My immediate supervisor supports the use of flexible work hours (e.g., varying the start and end times of the workday).",88,6,6,88,86,710,Workforce,Work-life balance and workload
+2022,Privy Council Office,Q30,Question 30. I am satisfied with the quality of supervision I receive.,83,8,9,83,82,710,Leadership,Immediate supervisor
+2022,Privy Council Office,Q31,"Question 31. When I communicate with my immediate supervisor, I feel free to use the official language of my choice.",93,4,3,93,93,710,Workplace,Use of official languages
+2022,Privy Council Office,Q32,Question 32. Senior managers in my department or agency lead by example in ethical behaviour.,79,11,11,79,77,710,Leadership,Senior management
+2022,Privy Council Office,Q33,Question 33. I have confidence in the senior management of my department or agency.,73,12,14,73,73,710,Leadership,Senior management
+2022,Privy Council Office,Q34,Question 34. Senior management in my department or agency makes effective and timely decisions.,64,15,21,64,66,710,Leadership,Senior management
+2022,Privy Council Office,Q35,Question 35. Essential information flows effectively from senior management to staff.,63,13,24,63,64,710,Leadership,Senior management
+2022,Privy Council Office,Q36,Question 36. Senior managers in my department or agency use both official languages in their interactions with employees.,67,20,13,67,72,710,Workplace,Use of official languages
+2022,Privy Council Office,Q37,"Question 37. My department or agency does a good job of communicating its vision, mission and goals.",71,14,15,71,70,710,Workplace,Organizational goals
+2022,Privy Council Office,Q38,Question 38. I feel that change is managed well in my department or agency.,54,20,26,54,60,710,Workplace,Organizational performance
+2022,Privy Council Office,Q39,"Question 39. If I am faced with an ethical dilemma or a conflict between values in the workplace, I know where I can go for help in resolving the situation.",66,16,17,66,68,710,Workplace,Ethical workplace
+2022,Privy Council Office,Q40,Question 40. My department or agency does a good job of promoting values and ethics in the workplace.,71,18,11,71,72,710,Workplace,Ethical workplace
+2022,Privy Council Office,Q41,"Question 41. I feel I can initiate a formal recourse process (e.g., grievance, complaint, appeal) without fear of reprisal.",49,23,27,49,59,710,Workplace,Ethical workplace
+2022,Privy Council Office,Q42,Question 42. My department or agency does a good job of supporting employee career development.,64,16,20,64,66,710,Workforce,Job fit and development
+2022,Privy Council Office,Q44,"Question 44. I believe I have opportunities for promotion within my department or agency, given my education, skills and experience.",52,15,33,52,56,710,Workforce,Job fit and development
+2022,Privy Council Office,Q45,Question 45. I feel I would be supported by my department or agency if I proposed a new idea.,72,15,13,72,72,710,Workforce,Empowerment
+2022,Privy Council Office,Q46,"Question 46. I think that my department or agency respects individual differences (e.g., culture, work styles, ideas, abilities).",74,14,12,74,75,710,Workplace,Diversity and inclusion
+2022,Privy Council Office,Q47,Question 47. My department or agency implements activities and practices that support a diverse workforce.,77,12,11,77,75,710,Workplace,Diversity and inclusion
+2022,Privy Council Office,Q48,Question 48. My department or agency implements initiatives that promote anti-racism in the workplace.,64,24,12,64,71,710,Workplace,Anti-racism
+2022,Privy Council Office,Q49,"Question 49. I would feel comfortable sharing concerns about racism in the workplace with a person of authority (e.g., immediate supervisor, senior manager, ombudsperson, human resources advisor).",80,9,11,80,78,710,Workplace,Anti-racism
+2022,Privy Council Office,Q50,Question 50. I feel that racism in my department or agency has had an adverse or negative impact on my mental health.,70,18,13,13,79,710,Workplace well-being,A psychologically healthy workplace
+2022,Privy Council Office,Q51,"Question 51. I feel that the Call to Action on Anti-Racism, Equity and Inclusion has had a positive impact in my department or agency, since it launched in January 2021.",48,36,16,48,62,710,Workplace,Anti-racism
+2022,Privy Council Office,Q52,"Question 52. Overall, my department or agency treats me with respect.",86,7,7,86,82,710,Workplace,Diversity and inclusion
+2022,Privy Council Office,Q53,Question 53. I would recommend my department or agency as a great place to work.,74,12,14,74,74,710,Employee engagement,Employee engagement
+2022,Privy Council Office,Q54,Question 54. I am satisfied with my department or agency.,75,12,13,75,76,705,Employee engagement,Employee engagement
+2022,Privy Council Office,Q55,"Question 55. I would prefer to remain with my department or agency, even if a comparable job was available elsewhere in the federal public service.",69,15,16,69,72,710,Employee engagement,Employee engagement
+2022,Privy Council Office,Q62,Question 62. I am satisfied with how matters related to harassment are resolved in my department or agency.,55,25,20,55,64,710,Workplace,Harassment
+2022,Privy Council Office,Q63,Question 63. My department or agency works hard to create a workplace that prevents harassment.,71,16,13,71,73,710,Workplace,Harassment
+2022,Privy Council Office,Q69,Question 69. I am satisfied with how matters related to discrimination are resolved in my department or agency.,56,33,11,56,68,710,Workplace,Discrimination
+2022,Privy Council Office,Q70,Question 70. My department or agency works hard to create a workplace that prevents discrimination.,74,17,9,74,75,710,Workplace,Discrimination
+2022,Privy Council Office,Q71,Question 71. I am satisfied with how concerns or complaints about racism in the workplace are resolved in my department or agency. (only asked if respondent selected 'Race' in question 66.),9,24,66,9,24,15,Workplace,Anti-racism
+2022,Privy Council Office,Q73,"Question 73. Overall, my level of work-related stress is...",38,40,21,21,54,710,Workplace well-being,Work-related stress
+2022,Privy Council Office,Q74,"Question 74. After my workday, I feel emotionally drained.",27,39,34,34,48,710,Workplace well-being,Work-related stress
+2022,Privy Council Office,Q75,Question 75. My department or agency does a good job of raising awareness of mental health in the workplace.,66,16,18,66,67,710,Workplace well-being,A psychologically healthy workplace
+2022,Privy Council Office,Q76,"Question 76. In general, how is your mental health?",37,39,24,9999,55,710,Workplace well-being,A psychologically healthy workplace
+2022,Privy Council Office,Q77,Question 77. My immediate supervisor supports my mental health and well-being.,84,7,9,84,83,710,Workplace well-being,A psychologically healthy workplace
+2022,Privy Council Office,Q78,Question 78. I would feel comfortable sharing concerns with my immediate supervisor about my mental health.,76,7,18,76,75,710,Workplace well-being,A psychologically healthy workplace
+2022,Privy Council Office,Q79,Question 79. I would feel comfortable sharing concerns with my immediate supervisor about my physical health and safety.,85,6,10,85,82,710,Workplace well-being,A safe and healthy workplace
+2022,Privy Council Office,Q80,Question 80. I would describe my workplace as being psychologically healthy.,68,14,18,68,68,710,Workplace well-being,A psychologically healthy workplace
+2022,Privy Council Office,Q82,Question 82. I am equipped to support employees in my work unit who are experiencing mental health issues. (for supervisors),73,10,17,73,69,195,Workplace well-being,A psychologically healthy workplace
+2022,Privy Council Office,Q86,Question 86. I am satisfied with the workplace accommodation measures that were implemented.,77,7,16,77,76,55,Workplace,Duty to accommodate
+2022,Privy Council Office,Q87,Question 87. I would feel comfortable requesting workplace accommodation measures from my immediate supervisor.,84,8,8,84,81,710,Workplace,Duty to accommodate
+2022,Privy Council Office,Q90,"Question 90. I am satisfied with the support (e.g., regular information, follow-up, making enquiries on my behalf, offering emergency or priority pay) I received from my department or agency to help resolve my pay or other compensation issues.",34,15,51,34,42,175,Compensation,Support to resolve pay or other compensation issues
+2022,Privy Council Office,Q91,Question 91. I am satisfied with the support I received from the Pay Centre to help resolve my pay or other compensation issues.,31,14,55,31,38,175,Compensation,Support to resolve pay or other compensation issues
+2022,Privy Council Office,Q92,"Question 92. To what extent have issues with the Phoenix pay system affected your decision to seek or accept another position (e.g., deployment, promotion, secondment, assignment, acting assignment) within your department or agency or the federal public service?",77,12,11,11,79,710,Compensation,Pay or other compensation issues
+2022,Privy Council Office,Q97,Question 97. Having the flexibility to choose where I work allows me to have a better work-life-balance.,92,5,4,92,91,665,Workplace,Future of work
+2022,Privy Council Office,Q98,Question 98. I am concerned that I will miss out on career opportunities if I am not at the Government of Canada worksite as often as others.,46,19,35,35,58,665,Workplace,Future of work
+2022,Privy Council Office,Q99,Question 99. I believe team members who attend meetings virtually would feel less included than those who attend in person.,49,17,34,34,58,665,Workplace,Future of work
+2019,Public Service,Q03,"Question 3. My physical environment (e.g., office, workspace) is suitable for my job requirements.",78,7,15,78,75,181461,Workplace,Physical environment and equipment
+2019,Public Service,Q04,Question 4. I get the training I need to do my job.,69,12,19,69,68,181032,Workforce,Job fit and development
+2019,Public Service,Q05,"Question 5. I have the information, training and equipment I need to ensure my health and safety at work.",81,9,10,81,78,180486,Workplace,Physical environment and equipment
+2019,Public Service,Q06,Question 6. I have support at work to balance my work and personal life.,77,10,13,77,76,181242,Workforce,Work-life balance and workload
+2019,Public Service,Q07,Question 7. I get a sense of satisfaction from my work.,76,12,12,76,74,181595,Employee engagement,Employee engagement
+2019,Public Service,Q08,Question 8. I receive meaningful recognition for work well done.,65,15,20,65,66,181492,Workforce,Performance management
+2019,Public Service,Q09,Question 9. I have clear work objectives.,74,12,14,74,72,180719,Workforce,Performance management
+2019,Public Service,Q10,Question 10. I know how my work contributes to the achievement of my department's or agency's goals.,82,10,8,82,79,180781,Workplace,Organizational goals
+2019,Public Service,Q11,"Question 11. Overall, I feel valued at work.",68,14,18,68,69,181182,Employee engagement,Employee engagement
+2019,Public Service,Q12,Question 12. I am proud of the work that I do.,85,10,5,85,82,180371,Employee engagement,Employee engagement
+2019,Public Service,Q13,Question 13. I have opportunities to provide input into decisions that affect my work.,68,14,18,68,68,180719,Workforce,Empowerment
+2019,Public Service,Q14,Question 14. I am encouraged to be innovative or to take initiative in my work.,68,16,16,68,70,181253,Workforce,Empowerment
+2019,Public Service,Q15,Question 15. I have support at work to provide a high level of service.,72,14,14,72,72,179179,Workforce,Empowerment
+2019,Public Service,Q16,"Question 16. Overall, I like my job.",81,10,8,81,78,181588,Employee engagement,Employee engagement
+2019,Public Service,Q17,Question 17. I can complete my assigned workload during my regular working hours.,71,17,12,71,74,180499,Workforce,Work-life balance and workload
+2019,Public Service,Q19,Question 19. I am satisfied with how interpersonal issues are resolved in my work unit.,64,18,19,64,67,181323,Workplace,Ethical workplace
+2019,Public Service,Q20,"Question 20. In my work unit, every individual is accepted as an equal member of the team.",75,9,16,75,75,181181,Workplace,Diversity and inclusion
+2019,Public Service,Q21,"Question 21. In my work unit, individuals behave in a respectful manner.",82,8,11,82,79,181129,Workplace,Diversity and inclusion
+2019,Public Service,Q22,Question 22. The people I work with value my ideas and opinions.,79,12,8,79,78,181393,Workplace,Diversity and inclusion
+2019,Public Service,Q25,Question 25. My immediate supervisor encourages me to work collaboratively with others outside of my work unit.,75,16,9,75,78,181574,Leadership,Immediate supervisor
+2019,Public Service,Q26,Question 26. I receive useful feedback from my immediate supervisor on my job performance.,74,13,14,74,74,181505,Workforce,Performance management
+2019,Public Service,Q28,Question 28. My immediate supervisor keeps me informed about the issues affecting my work.,77,11,12,77,77,180879,Leadership,Immediate supervisor
+2019,Public Service,Q30,Question 30. I am satisfied with the quality of supervision I receive.,79,10,11,79,79,181662,Leadership,Immediate supervisor
+2019,Public Service,Q31,"Question 31. When I communicate with my immediate supervisor, I feel free to use the official language of my choice.",93,4,3,93,93,180870,Workplace,Use of official languages
+2019,Public Service,Q32,Question 32. Senior managers in my department or agency lead by example in ethical behaviour.,68,16,16,68,70,181333,Leadership,Senior management
+2019,Public Service,Q33,Question 33. I have confidence in the senior management of my department or agency.,62,17,21,62,65,180978,Leadership,Senior management
+2019,Public Service,Q34,Question 34. Senior management in my department or agency makes effective and timely decisions.,53,21,26,53,60,180782,Leadership,Senior management
+2019,Public Service,Q35,Question 35. Essential information flows effectively from senior management to staff.,52,18,29,52,58,181112,Leadership,Senior management
+2019,Public Service,Q36,Question 36. Senior managers in my department or agency use both official languages in their interactions with employees.,72,14,14,72,75,181690,Workplace,Use of official languages
+2019,Public Service,Q37,"Question 37. My department or agency does a good job of communicating its vision, mission and goals.",70,17,13,70,70,181538,Workplace,Organizational goals
+2019,Public Service,Q38,Question 38. I feel that change is managed well in my department or agency.,50,21,29,50,57,180810,Workplace,Organizational performance
+2019,Public Service,Q39,"Question 39. If I am faced with an ethical dilemma or a conflict between values in the workplace, I know where I can go for help in resolving the situation.",71,14,15,71,71,181324,Workplace,Ethical workplace
+2019,Public Service,Q40,Question 40. My department or agency does a good job of promoting values and ethics in the workplace.,69,18,12,69,71,181009,Workplace,Ethical workplace
+2019,Public Service,Q41,"Question 41. I feel I can initiate a formal recourse process (e.g., grievance, complaint, appeal) without fear of reprisal.",50,21,29,50,58,181309,Workplace,Ethical workplace
+2019,Public Service,Q42,Question 42. My department or agency does a good job of supporting employee career development.,57,18,25,57,61,181262,Workforce,Job fit and development
+2019,Public Service,Q44,"Question 44. I believe I have opportunities for promotion within my department or agency, given my education, skills and experience.",52,16,32,52,56,181671,Workforce,Job fit and development
+2019,Public Service,Q45,Question 45. I feel I would be supported by my department or agency if I proposed a new idea.,63,20,17,63,66,181429,Workforce,Empowerment
+2019,Public Service,Q46,"Question 46. I think that my department or agency respects individual differences (e.g., culture, work styles, ideas, abilities).",75,14,11,75,74,180695,Workplace,Diversity and inclusion
+2019,Public Service,Q47,Question 47. My department or agency implements activities and practices that support a diverse workforce.,79,14,7,79,78,180863,Workplace,Diversity and inclusion
+2019,Public Service,Q52,"Question 52. Overall, my department or agency treats me with respect.",82,9,9,82,80,181342,Workplace,Diversity and inclusion
+2019,Public Service,Q53,Question 53. I would recommend my department or agency as a great place to work.,70,15,15,70,72,181212,Employee engagement,Employee engagement
+2019,Public Service,Q54,Question 54. I am satisfied with my department or agency.,71,14,15,71,72,180546,Employee engagement,Employee engagement
+2019,Public Service,Q55,"Question 55. I would prefer to remain with my department or agency, even if a comparable job was available elsewhere in the federal public service.",61,18,20,61,67,181559,Employee engagement,Employee engagement
+2019,Public Service,Q62,Question 62. I am satisfied with how matters related to harassment are resolved in my department or agency.,51,27,22,51,61,181570,Workplace,Harassment
+2019,Public Service,Q63,Question 63. My department or agency works hard to create a workplace that prevents harassment.,69,18,13,69,72,181533,Workplace,Harassment
+2019,Public Service,Q69,Question 69. I am satisfied with how matters related to discrimination are resolved in my department or agency.,55,31,13,55,67,181334,Workplace,Discrimination
+2019,Public Service,Q70,Question 70. My department or agency works hard to create a workplace that prevents discrimination.,72,19,9,72,75,181260,Workplace,Discrimination
+2019,Public Service,Q73,"Question 73. Overall, my level of work-related stress is...",50,33,17,17,62,181789,Workplace well-being,Work-related stress
+2019,Public Service,Q74,"Question 74. After my workday, I feel emotionally drained.",34,38,29,29,51,180286,Workplace well-being,Work-related stress
+2019,Public Service,Q75,Question 75. My department or agency does a good job of raising awareness of mental health in the workplace.,73,15,12,73,72,181158,Workplace well-being,A psychologically healthy workplace
+2019,Public Service,Q80,Question 80. I would describe my workplace as being psychologically healthy.,61,18,22,61,64,181482,Workplace well-being,A psychologically healthy workplace
+2019,Public Service,Q82,Question 82. I am equipped to support employees in my work unit who are experiencing mental health issues. (for supervisors),68,15,17,68,67,41266,Workplace well-being,A psychologically healthy workplace
+2019,Public Service,Q86,Question 86. I am satisfied with the workplace accommodation measures that were implemented.,80,6,13,80,78,23401,Workplace,Duty to accommodate
+2019,Public Service,Q92,"Question 92. To what extent have issues with the Phoenix pay system affected your decision to seek or accept another position (e.g., deployment, promotion, secondment, assignment, acting assignment) within your department or agency or the federal public service?",65,15,20,20,70,179367,Compensation,Pay or other compensation issues
+2020,Public Service,Q01,"Question 1. I have the tools, technology and equipment I need to do my job.",83,4,13,83,76,188350,Workplace,Physical environment and equipment
+2020,Public Service,Q02,"Question 2. The material and tools provided for my work, including software and other automated tools, are available in the official language of my choice.",94,3,3,94,92,187710,Workplace,Use of official languages
+2020,Public Service,Q03,"Question 3. My physical environment (e.g., office, workspace) is suitable for my job requirements.",78,9,14,78,75,188104,Workplace,Physical environment and equipment
+2020,Public Service,Q04,Question 4. I get the training I need to do my job.,73,12,15,73,72,187496,Workforce,Job fit and development
+2020,Public Service,Q05,"Question 5. I have the information, training and equipment I need to ensure my health and safety at work.",81,9,10,81,78,186897,Workplace,Physical environment and equipment
+2020,Public Service,Q06,Question 6. I have support at work to balance my work and personal life.,77,10,13,77,76,187730,Workforce,Work-life balance and workload
+2020,Public Service,Q07,Question 7. I get a sense of satisfaction from my work.,78,11,11,78,76,188177,Employee engagement,Employee engagement
+2020,Public Service,Q08,Question 8. I receive meaningful recognition for work well done.,69,14,17,69,69,188210,Workforce,Performance management
+2020,Public Service,Q09,Question 9. I have clear work objectives.,76,11,13,76,74,187222,Workforce,Performance management
+2020,Public Service,Q10,Question 10. I know how my work contributes to the achievement of my department's or agency's goals.,85,8,7,85,81,187373,Workplace,Organizational goals
+2020,Public Service,Q11,"Question 11. Overall, I feel valued at work.",71,13,16,71,71,187805,Employee engagement,Employee engagement
+2020,Public Service,Q12,Question 12. I am proud of the work that I do.,86,9,5,86,84,186823,Employee engagement,Employee engagement
+2020,Public Service,Q13,Question 13. I have opportunities to provide input into decisions that affect my work.,71,13,16,71,71,187289,Workforce,Empowerment
+2020,Public Service,Q14,Question 14. I am encouraged to be innovative or to take initiative in my work.,71,15,14,71,72,187895,Workforce,Empowerment
+2020,Public Service,Q15,Question 15. I have support at work to provide a high level of service.,75,12,12,75,74,186744,Workforce,Empowerment
+2020,Public Service,Q16,"Question 16. Overall, I like my job.",83,10,8,83,80,188122,Employee engagement,Employee engagement
+2020,Public Service,Q17,Question 17. I can complete my assigned workload during my regular working hours.,70,17,13,70,73,187208,Workforce,Work-life balance and workload
+2020,Public Service,Q19,Question 19. I am satisfied with how interpersonal issues are resolved in my work unit.,65,19,16,65,68,187998,Workplace,Ethical workplace
+2020,Public Service,Q20,"Question 20. In my work unit, every individual is accepted as an equal member of the team.",78,9,13,78,77,187747,Workplace,Diversity and inclusion
+2020,Public Service,Q21,"Question 21. In my work unit, individuals behave in a respectful manner.",85,7,8,85,82,187251,Workplace,Diversity and inclusion
+2020,Public Service,Q22,Question 22. The people I work with value my ideas and opinions.,82,11,7,82,79,186700,Workplace,Diversity and inclusion
+2020,Public Service,Q25,Question 25. My immediate supervisor encourages me to work collaboratively with others outside of my work unit.,78,15,8,78,79,187985,Leadership,Immediate supervisor
+2020,Public Service,Q26,Question 26. I receive useful feedback from my immediate supervisor on my job performance.,77,11,12,77,77,187915,Workforce,Performance management
+2020,Public Service,Q27,Question 27. I feel that my immediate supervisor supports my career goals.,77,13,10,77,79,187690,Workforce,Job fit and development
+2020,Public Service,Q28,Question 28. My immediate supervisor keeps me informed about the issues affecting my work.,80,10,10,80,79,188026,Leadership,Immediate supervisor
+2020,Public Service,Q30,Question 30. I am satisfied with the quality of supervision I receive.,82,9,9,82,81,188350,Leadership,Immediate supervisor
+2020,Public Service,Q32,Question 32. Senior managers in my department or agency lead by example in ethical behaviour.,73,14,13,73,74,188297,Leadership,Senior management
+2020,Public Service,Q33,Question 33. I have confidence in the senior management of my department or agency.,68,15,17,68,70,187817,Leadership,Senior management
+2020,Public Service,Q34,Question 34. Senior management in my department or agency makes effective and timely decisions.,60,18,21,60,64,187771,Leadership,Senior management
+2020,Public Service,Q35,Question 35. Essential information flows effectively from senior management to staff.,61,16,24,61,63,188175,Leadership,Senior management
+2020,Public Service,Q36,Question 36. Senior managers in my department or agency use both official languages in their interactions with employees.,74,14,12,74,76,188232,Workplace,Use of official languages
+2020,Public Service,Q37,"Question 37. My department or agency does a good job of communicating its vision, mission and goals.",74,15,11,74,73,188081,Workplace,Organizational goals
+2020,Public Service,Q38,Question 38. I feel that change is managed well in my department or agency.,59,19,22,59,63,187137,Workplace,Organizational performance
+2020,Public Service,Q39,"Question 39. If I am faced with an ethical dilemma or a conflict between values in the workplace, I know where I can go for help in resolving the situation.",73,13,13,73,73,187863,Workplace,Ethical workplace
+2020,Public Service,Q40,Question 40. My department or agency does a good job of promoting values and ethics in the workplace.,74,16,10,74,74,187519,Workplace,Ethical workplace
+2020,Public Service,Q41,"Question 41. I feel I can initiate a formal recourse process (e.g., grievance, complaint, appeal) without fear of reprisal.",55,20,25,55,62,187781,Workplace,Ethical workplace
+2020,Public Service,Q42,Question 42. My department or agency does a good job of supporting employee career development.,61,18,21,61,65,187687,Workforce,Job fit and development
+2020,Public Service,Q44,"Question 44. I believe I have opportunities for promotion within my department or agency, given my education, skills and experience.",55,16,29,55,59,188227,Workforce,Job fit and development
+2020,Public Service,Q45,Question 45. I feel I would be supported by my department or agency if I proposed a new idea.,68,18,14,68,68,187878,Workforce,Empowerment
+2020,Public Service,Q46,"Question 46. I think that my department or agency respects individual differences (e.g., culture, work styles, ideas, abilities).",77,13,10,77,75,187243,Workplace,Diversity and inclusion
+2020,Public Service,Q47,Question 47. My department or agency implements activities and practices that support a diverse workforce.,78,14,8,78,78,187651,Workplace,Diversity and inclusion
+2020,Public Service,Q48,Question 48. My department or agency implements initiatives that promote anti-racism in the workplace.,75,17,8,75,76,188080,Workplace,Anti-racism
+2020,Public Service,Q49,"Question 49. I would feel comfortable sharing concerns about racism in the workplace with a person of authority (e.g., immediate supervisor, senior manager, ombudsperson, human resources advisor).",79,11,10,79,78,187541,Workplace,Anti-racism
+2020,Public Service,Q52,"Question 52. Overall, my department or agency treats me with respect.",85,8,7,85,82,187707,Workplace,Diversity and inclusion
+2020,Public Service,Q53,Question 53. I would recommend my department or agency as a great place to work.,75,13,12,75,76,187475,Employee engagement,Employee engagement
+2020,Public Service,Q54,Question 54. I am satisfied with my department or agency.,75,13,12,75,75,186722,Employee engagement,Employee engagement
+2020,Public Service,Q55,"Question 55. I would prefer to remain with my department or agency, even if a comparable job was available elsewhere in the federal public service.",66,18,16,66,71,187915,Employee engagement,Employee engagement
+2020,Public Service,Q62,Question 62. I am satisfied with how matters related to harassment are resolved in my department or agency.,56,25,19,56,65,188041,Workplace,Harassment
+2020,Public Service,Q63,Question 63. My department or agency works hard to create a workplace that prevents harassment.,71,17,12,71,73,187964,Workplace,Harassment
+2020,Public Service,Q69,Question 69. I am satisfied with how matters related to discrimination are resolved in my department or agency.,60,28,12,60,69,187795,Workplace,Discrimination
+2020,Public Service,Q70,Question 70. My department or agency works hard to create a workplace that prevents discrimination.,73,18,9,73,75,187913,Workplace,Discrimination
+2020,Public Service,Q71,Question 71. I am satisfied with how concerns or complaints about racism in the workplace are resolved in my department or agency. (only asked if respondent selected 'Race' in question 66.),10,24,66,10,25,3416,Workplace,Anti-racism
+2020,Public Service,Q73,"Question 73. Overall, my level of work-related stress is...",48,34,18,18,60,188144,Workplace well-being,Work-related stress
+2020,Public Service,Q74,"Question 74. After my workday, I feel emotionally drained.",31,38,31,31,49,187534,Workplace well-being,Work-related stress
+2020,Public Service,Q75,Question 75. My department or agency does a good job of raising awareness of mental health in the workplace.,81,11,8,81,78,187949,Workplace well-being,A psychologically healthy workplace
+2020,Public Service,Q77,Question 77. My immediate supervisor supports my mental health and well-being.,79,13,8,79,79,187225,Workplace well-being,A psychologically healthy workplace
+2020,Public Service,Q78,Question 78. I would feel comfortable sharing concerns with my immediate supervisor about my mental health.,69,12,20,69,70,187730,Workplace well-being,A psychologically healthy workplace
+2020,Public Service,Q79,Question 79. I would feel comfortable sharing concerns with my immediate supervisor about my physical health and safety.,80,9,12,80,78,187389,Workplace well-being,A safe and healthy workplace
+2020,Public Service,Q80,Question 80. I would describe my workplace as being psychologically healthy.,68,16,17,68,70,188058,Workplace well-being,A psychologically healthy workplace
+2020,Public Service,Q82,Question 82. I am equipped to support employees in my work unit who are experiencing mental health issues. (for supervisors),71,13,15,71,69,44705,Workplace well-being,A psychologically healthy workplace
+2020,Public Service,Q86,Question 86. I am satisfied with the workplace accommodation measures that were implemented.,82,8,10,82,80,19149,Workplace,Duty to accommodate
+2020,Public Service,Q87,Question 87. I would feel comfortable requesting workplace accommodation measures from my immediate supervisor.,82,9,8,82,80,187986,Workplace,Duty to accommodate
+2020,Public Service,Q90,"Question 90. I am satisfied with the support (e.g., regular information, follow-up, making enquiries on my behalf, offering emergency or priority pay) I received from my department or agency to help resolve my pay or other compensation issues.",34,17,49,34,42,53684,Compensation,Support to resolve pay or other compensation issues
+2020,Public Service,Q91,Question 91. I am satisfied with the support I received from the Pay Centre to help resolve my pay or other compensation issues.,24,15,60,24,34,53711,Compensation,Support to resolve pay or other compensation issues
+2020,Public Service,Q92,"Question 92. To what extent have issues with the Phoenix pay system affected your decision to seek or accept another position (e.g., deployment, promotion, secondment, assignment, acting assignment) within your department or agency or the federal public service?",71,14,15,15,75,188101,Compensation,Pay or other compensation issues
+2022,Public Service,Q01,"Question 1. I have the tools, technology and equipment I need to do my job.",84,4,12,84,78,189360,Workplace,Physical environment and equipment
+2022,Public Service,Q02,"Question 2. The material and tools provided for my work, including software and other automated tools, are available in the official language of my choice.",94,3,3,94,92,189320,Workplace,Use of official languages
+2022,Public Service,Q03,"Question 3. My physical environment (e.g., office, workspace) is suitable for my job requirements.",80,7,13,80,78,189140,Workplace,Physical environment and equipment
+2022,Public Service,Q04,Question 4. I get the training I need to do my job.,73,10,17,73,71,189145,Workforce,Job fit and development
+2022,Public Service,Q05,"Question 5. I have the information, training and equipment I need to ensure my health and safety at work.",83,8,10,83,80,189055,Workplace,Physical environment and equipment
+2022,Public Service,Q06,Question 6. I have support at work to balance my work and personal life.,78,9,13,78,76,189310,Workforce,Work-life balance and workload
+2022,Public Service,Q07,Question 7. I get a sense of satisfaction from my work.,78,11,11,78,76,189350,Employee engagement,Employee engagement
+2022,Public Service,Q08,Question 8. I receive meaningful recognition for work well done.,69,14,18,69,70,189425,Workforce,Performance management
+2022,Public Service,Q09,Question 9. I have clear work objectives.,80,8,12,80,76,189270,Workforce,Performance management
+2022,Public Service,Q10,Question 10. I know how my work contributes to the achievement of my department's or agency's goals.,86,7,7,86,82,189045,Workplace,Organizational goals
+2022,Public Service,Q11,"Question 11. Overall, I feel valued at work.",72,12,16,72,72,189285,Employee engagement,Employee engagement
+2022,Public Service,Q12,Question 12. I am proud of the work that I do.,85,9,5,85,83,189220,Employee engagement,Employee engagement
+2022,Public Service,Q13,Question 13. I have opportunities to provide input into decisions that affect my work.,70,13,17,70,70,189120,Workforce,Empowerment
+2022,Public Service,Q14,Question 14. I am encouraged to be innovative or to take initiative in my work.,72,14,14,72,73,189230,Workforce,Empowerment
+2022,Public Service,Q15,Question 15. I have support at work to provide a high level of service.,75,12,13,75,74,189280,Workforce,Empowerment
+2022,Public Service,Q16,"Question 16. Overall, I like my job.",81,10,8,81,79,189380,Employee engagement,Employee engagement
+2022,Public Service,Q17,Question 17. I can complete my assigned workload during my regular working hours.,73,15,12,73,74,189480,Workforce,Work-life balance and workload
+2022,Public Service,Q19,Question 19. I am satisfied with how interpersonal issues are resolved in my work unit.,67,18,16,67,69,189180,Workplace,Ethical workplace
+2022,Public Service,Q20,"Question 20. In my work unit, every individual is accepted as an equal member of the team.",81,7,12,81,80,189185,Workplace,Diversity and inclusion
+2022,Public Service,Q21,"Question 21. In my work unit, individuals behave in a respectful manner.",87,5,8,87,84,189215,Workplace,Diversity and inclusion
+2022,Public Service,Q22,Question 22. The people I work with value my ideas and opinions.,83,10,7,83,81,189240,Workplace,Diversity and inclusion
+2022,Public Service,Q23,"Question 23. In my work unit, I would feel safe to speak about racism in the workplace without fear of reprisal or negative impact on my career.",77,12,11,77,77,189315,Workplace,Anti-racism
+2022,Public Service,Q24,"Question 24. In my work unit, I would feel safe to speak about racism in the workplace without negative impact on my mental health.",76,13,11,76,77,189330,Workplace,Anti-racism
+2022,Public Service,Q25,Question 25. My immediate supervisor encourages me to work collaboratively with others outside of my work unit.,79,14,7,79,80,189285,Leadership,Immediate supervisor
+2022,Public Service,Q26,Question 26. I receive useful feedback from my immediate supervisor on my job performance.,78,10,12,78,77,189340,Workforce,Performance management
+2022,Public Service,Q27,Question 27. I feel that my immediate supervisor supports my career goals.,79,11,9,79,80,189190,Workforce,Job fit and development
+2022,Public Service,Q28,Question 28. My immediate supervisor keeps me informed about the issues affecting my work.,81,9,10,81,80,189005,Leadership,Immediate supervisor
+2022,Public Service,Q29,"Question 29. My immediate supervisor supports the use of flexible work hours (e.g., varying the start and end times of the workday).",87,6,7,87,85,189360,Workforce,Work-life balance and workload
+2022,Public Service,Q30,Question 30. I am satisfied with the quality of supervision I receive.,82,9,10,82,81,189335,Leadership,Immediate supervisor
+2022,Public Service,Q31,"Question 31. When I communicate with my immediate supervisor, I feel free to use the official language of my choice.",94,3,3,94,94,189420,Workplace,Use of official languages
+2022,Public Service,Q32,Question 32. Senior managers in my department or agency lead by example in ethical behaviour.,71,14,15,71,73,189360,Leadership,Senior management
+2022,Public Service,Q33,Question 33. I have confidence in the senior management of my department or agency.,64,15,21,64,67,189310,Leadership,Senior management
+2022,Public Service,Q34,Question 34. Senior management in my department or agency makes effective and timely decisions.,55,19,27,55,61,189290,Leadership,Senior management
+2022,Public Service,Q35,Question 35. Essential information flows effectively from senior management to staff.,57,16,27,57,61,189355,Leadership,Senior management
+2022,Public Service,Q36,Question 36. Senior managers in my department or agency use both official languages in their interactions with employees.,76,14,10,76,78,189400,Workplace,Use of official languages
+2022,Public Service,Q37,"Question 37. My department or agency does a good job of communicating its vision, mission and goals.",71,15,14,71,70,189220,Workplace,Organizational goals
+2022,Public Service,Q38,Question 38. I feel that change is managed well in my department or agency.,51,19,30,51,57,189225,Workplace,Organizational performance
+2022,Public Service,Q39,"Question 39. If I am faced with an ethical dilemma or a conflict between values in the workplace, I know where I can go for help in resolving the situation.",70,14,16,70,70,189215,Workplace,Ethical workplace
+2022,Public Service,Q40,Question 40. My department or agency does a good job of promoting values and ethics in the workplace.,72,17,12,72,73,189180,Workplace,Ethical workplace
+2022,Public Service,Q41,"Question 41. I feel I can initiate a formal recourse process (e.g., grievance, complaint, appeal) without fear of reprisal.",56,19,25,56,61,189290,Workplace,Ethical workplace
+2022,Public Service,Q42,Question 42. My department or agency does a good job of supporting employee career development.,63,16,21,63,65,189390,Workforce,Job fit and development
+2022,Public Service,Q44,"Question 44. I believe I have opportunities for promotion within my department or agency, given my education, skills and experience.",60,12,28,60,61,189315,Workforce,Job fit and development
+2022,Public Service,Q45,Question 45. I feel I would be supported by my department or agency if I proposed a new idea.,66,18,17,66,67,189295,Workforce,Empowerment
+2022,Public Service,Q46,"Question 46. I think that my department or agency respects individual differences (e.g., culture, work styles, ideas, abilities).",75,12,12,75,74,189310,Workplace,Diversity and inclusion
+2022,Public Service,Q47,Question 47. My department or agency implements activities and practices that support a diverse workforce.,79,13,8,79,77,189185,Workplace,Diversity and inclusion
+2022,Public Service,Q48,Question 48. My department or agency implements initiatives that promote anti-racism in the workplace.,69,22,9,69,74,189305,Workplace,Anti-racism
+2022,Public Service,Q49,"Question 49. I would feel comfortable sharing concerns about racism in the workplace with a person of authority (e.g., immediate supervisor, senior manager, ombudsperson, human resources advisor).",79,10,11,79,78,189055,Workplace,Anti-racism
+2022,Public Service,Q50,Question 50. I feel that racism in my department or agency has had an adverse or negative impact on my mental health.,69,18,14,14,77,188970,Workplace well-being,A psychologically healthy workplace
+2022,Public Service,Q51,"Question 51. I feel that the Call to Action on Anti-Racism, Equity and Inclusion has had a positive impact in my department or agency, since it launched in January 2021.",49,38,13,49,62,189150,Workplace,Anti-racism
+2022,Public Service,Q52,"Question 52. Overall, my department or agency treats me with respect.",84,7,9,84,80,189395,Workplace,Diversity and inclusion
+2022,Public Service,Q53,Question 53. I would recommend my department or agency as a great place to work.,73,12,14,73,74,189320,Employee engagement,Employee engagement
+2022,Public Service,Q54,Question 54. I am satisfied with my department or agency.,73,12,15,73,73,189285,Employee engagement,Employee engagement
+2022,Public Service,Q55,"Question 55. I would prefer to remain with my department or agency, even if a comparable job was available elsewhere in the federal public service.",64,17,19,64,68,189355,Employee engagement,Employee engagement
+2022,Public Service,Q62,Question 62. I am satisfied with how matters related to harassment are resolved in my department or agency.,54,24,22,54,62,189180,Workplace,Harassment
+2022,Public Service,Q63,Question 63. My department or agency works hard to create a workplace that prevents harassment.,72,15,12,72,73,189205,Workplace,Harassment
+2022,Public Service,Q69,Question 69. I am satisfied with how matters related to discrimination are resolved in my department or agency.,58,28,14,58,67,189260,Workplace,Discrimination
+2022,Public Service,Q70,Question 70. My department or agency works hard to create a workplace that prevents discrimination.,74,17,10,74,74,189275,Workplace,Discrimination
+2022,Public Service,Q71,Question 71. I am satisfied with how concerns or complaints about racism in the workplace are resolved in my department or agency. (only asked if respondent selected 'Race' in question 66.),11,25,63,11,27,3610,Workplace,Anti-racism
+2022,Public Service,Q73,"Question 73. Overall, my level of work-related stress is...",43,38,19,19,57,189420,Workplace well-being,Work-related stress
+2022,Public Service,Q74,"Question 74. After my workday, I feel emotionally drained.",32,40,29,29,51,188990,Workplace well-being,Work-related stress
+2022,Public Service,Q75,Question 75. My department or agency does a good job of raising awareness of mental health in the workplace.,72,14,13,72,71,189260,Workplace well-being,A psychologically healthy workplace
+2022,Public Service,Q76,"Question 76. In general, how is your mental health?",39,35,25,9999,55,189320,Workplace well-being,A psychologically healthy workplace
+2022,Public Service,Q77,Question 77. My immediate supervisor supports my mental health and well-being.,83,10,7,83,82,189380,Workplace well-being,A psychologically healthy workplace
+2022,Public Service,Q78,Question 78. I would feel comfortable sharing concerns with my immediate supervisor about my mental health.,73,9,18,73,74,189330,Workplace well-being,A psychologically healthy workplace
+2022,Public Service,Q79,Question 79. I would feel comfortable sharing concerns with my immediate supervisor about my physical health and safety.,83,7,10,83,81,189380,Workplace well-being,A safe and healthy workplace
+2022,Public Service,Q80,Question 80. I would describe my workplace as being psychologically healthy.,68,14,19,68,68,189260,Workplace well-being,A psychologically healthy workplace
+2022,Public Service,Q82,Question 82. I am equipped to support employees in my work unit who are experiencing mental health issues. (for supervisors),69,13,18,69,67,46350,Workplace well-being,A psychologically healthy workplace
+2022,Public Service,Q86,Question 86. I am satisfied with the workplace accommodation measures that were implemented.,80,7,13,80,77,17915,Workplace,Duty to accommodate
+2022,Public Service,Q87,Question 87. I would feel comfortable requesting workplace accommodation measures from my immediate supervisor.,83,8,9,83,80,189205,Workplace,Duty to accommodate
+2022,Public Service,Q90,"Question 90. I am satisfied with the support (e.g., regular information, follow-up, making enquiries on my behalf, offering emergency or priority pay) I received from my department or agency to help resolve my pay or other compensation issues.",31,15,54,31,38,41220,Compensation,Support to resolve pay or other compensation issues
+2022,Public Service,Q91,Question 91. I am satisfied with the support I received from the Pay Centre to help resolve my pay or other compensation issues.,24,14,63,24,31,41155,Compensation,Support to resolve pay or other compensation issues
+2022,Public Service,Q92,"Question 92. To what extent have issues with the Phoenix pay system affected your decision to seek or accept another position (e.g., deployment, promotion, secondment, assignment, acting assignment) within your department or agency or the federal public service?",75,12,13,13,78,189270,Compensation,Pay or other compensation issues
+2022,Public Service,Q97,Question 97. Having the flexibility to choose where I work allows me to have a better work-life-balance.,89,6,5,89,89,110635,Workplace,Future of work
+2022,Public Service,Q98,Question 98. I am concerned that I will miss out on career opportunities if I am not at the Government of Canada worksite as often as others.,57,18,24,24,67,110615,Workplace,Future of work
+2022,Public Service,Q99,Question 99. I believe team members who attend meetings virtually would feel less included than those who attend in person.,49,19,32,32,60,110635,Workplace,Future of work
